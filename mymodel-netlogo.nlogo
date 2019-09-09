@@ -1,5 +1,9 @@
 to setup
 clear-all
+  create-turtles 10 [
+
+
+  ]
 reset-ticks
 end
 
